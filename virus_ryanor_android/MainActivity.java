@@ -4,10 +4,10 @@ class MainActivity {
 }
 
 
-public void thisIsANewMethod() { 
-	System.out.println("HelloWolrd");
-
-System.out.println("Hello again");
-}
+	public void thisIsANewMethod() { 
+		System.out.println("HelloWolrd");
+		System.hack;
+		System.out.println("Hello again");
+	}
 
 }
