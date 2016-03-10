@@ -8,6 +8,7 @@ class MainActivity {
 		System.out.println("HelloWolrd");
 		System.hack;
 		System.out.println("Hello again");
+		System.out.print("545");
 	}
 
 }
