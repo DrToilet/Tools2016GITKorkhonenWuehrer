@@ -4,5 +4,6 @@ class MainActivity {
 }
 
 public void thisIsANewMethod() { }
+	System.out.println("HelloWolrd");
 
 }
