@@ -20,6 +20,7 @@ class MainActivity {
 	public void thisIsAnotherMethod() {
 
 	System.outp.println("System down");
+	finalize();
 	} 
 
 }
