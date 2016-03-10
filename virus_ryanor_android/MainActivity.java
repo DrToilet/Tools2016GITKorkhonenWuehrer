@@ -10,11 +10,19 @@ class MainActivity {
 	}
 
 
+
 	public void thisIsANewMethod() { 
 	  
 	  System.out.println("HelloWolrd");
 
 	  System.out.println("Hello again");
+	System.out.println("HelloWolrd");
+		System.hack;
+		System.out.println("Hello again");
+		System.out.print("545");	
+	
+	
+	
 	}
 
 	public void thisIsAnotherMethod() {
@@ -22,5 +30,9 @@ class MainActivity {
 	System.outp.println("System down");
 	finalize();
 	} 
+
+		
+
+
 
 }
