@@ -3,7 +3,11 @@ class MainActivity {
 	System.out.println("HelloWorld");
 }
 
-public void thisIsANewMethod() { }
+
+public void thisIsANewMethod() { 
 	System.out.println("HelloWolrd");
+
+System.out.println("Hello again");
+}
 
 }
